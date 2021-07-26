@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiProject</name>
+    </assembly>
+    <members>
+        <member name="T:ApiProject.Controllers.EmployeesController">
+            <summary>
+            Employees Controller
+            </summary>
+        </member>
+        <member name="M:ApiProject.Controllers.EmployeesController.Get">
+            <summary>
+            Get Employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiProject.Controllers.EmployeesController.Get(System.Int32)">
+            <summary>
+            Get EmployeeById
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ApiProject.Controllers.ValuesController">
+            <summary>
+            Values Controller
+            </summary>
+        </member>
+        <member name="M:ApiProject.Controllers.ValuesController.GetName">
+            <summary>
+            Get All Names
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiProject.Controllers.ValuesController.GetNameById(System.Int32)">
+            <summary>
+            Get Name By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiProject.Controllers.ValuesController.PostAddName(System.String)">
+            <summary>
+            Insert Name
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:ApiProject.Controllers.ValuesController.putUpdatName(System.Int32,System.String)">
+            <summary>
+            Update Name
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:ApiProject.Controllers.ValuesController.DelteNameById(System.Int32)">
+            <summary>
+            Delete Name
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

@@ -65,3 +65,11 @@ F:\Work\ApiSolution\ApiProject\obj\Debug\ApiProject.csproj.CoreCompileInputs.cac
 F:\Work\ApiSolution\ApiProject\obj\Debug\ApiProject.csproj.CopyComplete
 F:\Work\ApiSolution\ApiProject\obj\Debug\ApiProject.dll
 F:\Work\ApiSolution\ApiProject\obj\Debug\ApiProject.pdb
+F:\Work\ApiSolution\ApiProject\bin\ApiProject.xml
+F:\Work\ApiSolution\ApiProject\bin\EntityFramework.dll
+F:\Work\ApiSolution\ApiProject\bin\EntityFramework.SqlServer.dll
+F:\Work\ApiSolution\ApiProject\bin\Microsoft.Web.Infrastructure.dll
+F:\Work\ApiSolution\ApiProject\bin\Swashbuckle.Core.dll
+F:\Work\ApiSolution\ApiProject\bin\WebActivatorEx.dll
+F:\Work\ApiSolution\ApiProject\bin\EntityFramework.xml
+F:\Work\ApiSolution\ApiProject\bin\EntityFramework.SqlServer.xml
